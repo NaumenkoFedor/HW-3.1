@@ -32,4 +32,5 @@ public class Task07 {
                         System.out.println("невозможно определить");
                 }
         }
+
 }
