@@ -9,7 +9,6 @@ public class Task11 {
         double b = scanner.nextDouble();
         System.out.println("введите коэффициент C ");
         double c = scanner.nextDouble();
-
         double diskr = b * b - 4 * a * c;
         if (diskr > 0) {
             double x1 = (-b + Math.sqrt(diskr)) / (2 * a);
